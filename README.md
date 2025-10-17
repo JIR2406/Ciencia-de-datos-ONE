@@ -106,6 +106,3 @@ Autor: JIR2406
 Perfil: https://github.com/JIR2406
 
 ---
-
-
-Dime qué prefieres y lo actualizo: puedo generar la lista automática y abrir un PR con los cambios si quieres.
