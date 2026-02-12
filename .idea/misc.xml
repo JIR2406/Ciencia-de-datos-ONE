@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote 3.11 Docker (sha256:4002f240b5d4491ebcbf09c1a70ae109ab2bf94e38a3dec81e09749ac5dc8a17)" project-jdk-type="Python SDK" />
 </project>
